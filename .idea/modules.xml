@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Saamari\Desktop\SensorDemo-master\SensorDemo.iml" filepath="C:\Users\Saamari\Desktop\SensorDemo-master\SensorDemo.iml" />
+      <module fileurl="file://C:\Users\kaupp\AndroidStudioProjects\SensorDemo-master2-master\SensorDemo-master.iml" filepath="C:\Users\kaupp\AndroidStudioProjects\SensorDemo-master2-master\SensorDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorDemo-master2-master.iml" filepath="$PROJECT_DIR$/SensorDemo-master2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\kaupp\AndroidStudioProjects\SensorDemo-master2-master\app\app.iml" filepath="C:\Users\kaupp\AndroidStudioProjects\SensorDemo-master2-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

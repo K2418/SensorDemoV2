@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="intro">This app will demonstrate sensors which are available in your device</string>
+    <string name="intro2">Sensors tested are accelerometer, ambient temperature, gravity, gyroscope,
+        light, linear acceleration, magnetic field, pressure, proximity,
+        relative humidity and rotation vector.</string>
+    <string name="sensors_text">Sensors on your device: </string>
+    <string name="gravity">Gravity</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="ambtemp">Ambient temperature</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="light">Light</string>
+    <string name="linacc">Linear acceleration</string>
+    <string name="magnetic">Magnetic field</string>
+    <string name="orientation">Orientation</string>
+    <string name="pressure">Pressure</string>
+    <string name="proximity">Proximity</string>
+    <string name="relhum">Relative humidity</string>
+    <string name="rotvec">Rotation Vector</string>
+</resources>
